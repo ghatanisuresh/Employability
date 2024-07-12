@@ -9,14 +9,53 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Introduction
+# Employbility
 
-This is an example note.
+This is about transitioning into the job and below it talks about resume and cover letter creation. All the below content is referenced from macquarie university. 
 
-## Section 1
+Before diving into the resume and cover letter, let's look at first, what the employers are really looking for into a candidate.
 
-Here is some content for the first section.
+## Employers look for "Well rounded gradautes"
 
-## Section 2
+Some of the triats they look for are below: 
 
-Here is some content for the second section.
+A. Can you do the job? 
+
+->skills, qualities, achievements
+
+B. Will you do the job? 
+
+->attitude, aptitude
+
+C. Will you fit in? 
+
+->cultural fit 
+
+
+__To become well rounded candidate, extracurricular activities: clubs groups socities, and sports, part time work, internships, projects, activites and volunteering.__
+
+
+## Employability skills
+
+1. Interpersonal & People skills
+2. Communication & Teamwork
+3. Organising & Planning
+4. Adaptability & Resilience
+5. Reliability & Motivation
+6. Critical Thinking & Problem Solving
+7. Digital Literacy
+
+To build the skills, participate in the range of experiences. These are the skills that companies seek for. 
+
+Employers want to know if the candidate is good fit for the organization in terms of skills, qualifications and achievements. Are the candidate good fit for the culutre. Additionally, do the candidate has key skills the company require? 
+
+
+Let's jump into now __Job Analysis__. 
+
+## Job Analysis: 
+
+While looking for the job searching, you often find the job descriptions that has lots of information embedded. Now the technique 'job analysis', what a candidate has to do. Job analysis is simply going through job description thouroughlly and finding key words. List out the keywords, whether it be soft skills or hard skills and other: eligible criterai. 
+
+# Resume preparation:
+
+
