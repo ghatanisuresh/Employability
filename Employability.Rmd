@@ -56,6 +56,512 @@ Let's jump into now __Job Analysis__.
 
 While looking for the job searching, you often find the job descriptions that has lots of information embedded. Now the technique 'job analysis', what a candidate has to do. Job analysis is simply going through job description thouroughlly and finding key words. List out the keywords, whether it be soft skills or hard skills and other: eligible criterai. 
 
-# Resume preparation:
+## Research and Preparation: 
+
+Diferent methodologies has to be applied in order to research the job. Some of the points below are a key points to remember while doing research: 
+
+__Purpose__
+
+* Shows initiative & enthusiasm
+* Gathers information for your application
+* Assists making an infromed decision
+
+__What to research__
+
+* The role
+* The company & team/department/division
+* The manager/supervisor
+* The culture/working environment
+* Trends & recent events in the industry/company
+
+__Where to research__
+
+* Online(newspapers, blogs, chat rooms, company website, social media)
+* Newspapers, magazines
+* Professional Associations
+* Networking(e.g. careers, fairs, Linkedin, friends, current employees, informational interviews)
 
 
+## Contents of a resume
+
+What are the sections need to include in the resume: 
+
+* **Personal**- contact details mobile, professional email, Linkedin, github, personal websites, or any links
+* __Career objective__ - summary of goals/ skills ; use key words
+* __Key educational qualifications__ - current first (include Awards and Scholarship)
+* __Professional memberships__ - CPA/ CA etc. 
+* __Employment experience__ - Paid + causal, dates, company, detailed description
+* __Relevant skills__ - IT, Languages, employability skills
+* __Extracurricular activites__ - student societies, GLP, sport, volunteering
+* __Interests__ - do not include - like to listen music, play guitar. Instead, use what you want to learn and write according to job description, the skills you really don't know. 
+* __Referees__ - Professional and/or academic with title, contact details
+
+* Highlight your preferred work location, or a note saying open to relocation where applicable* 
+
+## Career objective 
+
+* Start with who you are and what your education is. eg. Highly motivated graduate....
+
+* Add 2-3 key skills, eg wishing to use strong data-analysis and creative....
+
+* Include career goals to explain what you hope to achieve with your prospective employer. 
+
+Examples:
+
+1. I am a third year Commerce student majoring in Accounting. I am seeking a Graduate Accountable within a progressive mid size Accounting firm, where I can continue to build my professional skills and leverage my strong critical thinking and problem solving skills. 
+
+2. Aspiring data analyst/ data scientist seeking a graduate role in digital stream, especially in Data within a public sector, where I can continue to excel my further professional skills and leverage my strong analytical skills along with critical thinking and problem skills in an organization to meet the organization goals. 
+
+## Education
+
+In this secion, according to the job description, list 3-5 key subjects. 
+
+Key subjects
+
+* Data mining
+* Big Data
+* Machine Learning
+
+Major projects (optional)
+
+Write down what are the skills gained through this project. 
+
+Financial Statement Analysis - Case Study
+
+Developed critical thinking and problem solving skills through detailed financial analysis of business financial position. Strong attention to detail and communication skills required to interpret and present the final report. 
+
+*This can also be tailored according to job description*
+
+Achievement: 
+
+Was ranked third (in a class of 150 students) in Accountants in the Profession. 
+
+Achieved top 15% ranking on kaggle with a project Predicting age from images. 
+
+can mention about hackathon winning 
+
+may include certification
+
+Research project
+
+Contributions to open source projects
+
+community involvement: volunteered as a data analyst for [organization_name], providing insights, and dedication to the filed of data science.
+
+
+# Employement Experience
+
+* Employable skills, achievements or outcomes reached, duties and responsibilites. 
+
+Customer Service: This bullet points proove having of customer skills
+
+* Strong customer service mindest - awarded "employee of the Month" in April 2018, June 2019
+
+* Ensured customer satisfaction by understanding customer requirements, making appropriate recommendations, and providing after-sales support
+                        
+Communication skills:
+
+* Developed strong communication skills by dealing with customers in store and phone. 
+                        
+Problem Solving + Critical thinking:
+
+* Identified opportunity to improve Rostering process- Developed new roster systems to assist store manager in scheduling casuals. 
+
+Team Player:
+
+* Staff social committee member 2018, 2019. 
+
+* Tip: What value that you gave to previous employer* 
+
+# Core Skills
+
+* Spoken languages (other than English), IT system skills, and other essential skills or credentials that are relevant to the role or industry sought. 
+
+# Extra curricular Activites
+
+* by involving in some sort of activites or volunteering, soft skills or technical skills can be shown in this section. 
+
+# Refeers
+
+Some of the tips: 
+
+* Generally not to mention beforehand until application further advances. 
+
+* Referees available upon request' - standard comment
+
+* Usually requires 2-3
+
+* Always ask their permission first
+
+* Your referee must be able to comment on your work and technical skills
+
+* Suggest email/call to 
+    
+    + remind them of key dates/roles/relationship
+    + tell them about the role and what they are looking for
+
+* Always thank them afterwards, no matters what will be the outcome. 
+
+Examples: 
+
+_Ms. Jane Burrows__
+
+Data Scientist
+
+xxx pvt.ltd, Granville
+
+Ph 02......
+
+M 0432342342
+
+jane.burrows@gmail.com
+
+
+Please make sure before checklist before submiting: 
+
+# Resume checklist
+
+
+| __Content__                     | Format                   |
+|-----------------------------|------------------------------|
+| - Customized                | - Max 2 pages            |
+| - Relevant                  | - Clear headings/sections|
+| - Concise                   | - Well spaced            |
+| - Quality                   | - Consistent font        |
+| - Accurate:                 | - Minimal colours        |
+|   - No spelling errors      | - Bullet points          |
+|   - No grammatical errors   |                          |
+| - No cutting & pasting      |                          |
+
+
+
+
+# Cover Letter
+
+Cover letters are great way to highlight your strongest selling points and skills. It should align with your personal brand and complement your resume. 
+
+Generally, a cover letter is: 
+
+* A one-page professional document
+
+* Maximum 4-5 para
+
+* Written in the first person and in a letter format
+
+* Tailored to the job advert
+
+* Written using action words
+
+* To introduce you and your resume to an employer and to show __enthusiasm__ for the role. 
+
+* To address _selection requirements__ and give you the oppurtunity to talk about specific qualifications/skills
+
+* To show __understanding and research__ of the organisation
+
+* To provide a sample of your __written communication__ skills
+
+In cover letter, we can:
+
+* expand on standout experiences in your resume
+
+* demonstrate knowledge of the industry and employer
+
+* Explain any big gaps of experience on your resume
+
+* Get an employer interested in reading your resume
+
+* Detail working rights(if this is relevant and in the job ad)
+
+## Cover Letter Format
+
+Your name
+Your address
+Your phone
+Your email
+
+Date
+
+Receiver's name
+Receiver's position, Company
+Address
+
+Dear Receiver's name/Sir/Madam/__hiring manager__
+
+Re: Title and reference number of the position for which you'are applying: 
+
+Para 1: Indicate your interest in applying for the position
+
+Mention the position applying to (title, source, date) and show enthusiasm or curiosity towards the role. Make it interesting and outline what attracted your to the role and why. 
+
+Para 2: Address the selection criteria and use supporting statements
+
+Use educational background to address some of the selection criteria and use supporting evidence. Include your degree, skills, and knowledge gained. Mention relevant units, Projects, group assignements and awards. 
+
+Employability skills, work experience, volunteering or extra-curricular activites:
+
+Highlight a couple of the main skills or abilites you bring to the role from the past employement. Back this up with evidence and achievements. Mention any relevant personal qualites or attributes. 
+
+* Tip: Do not repeat what is in resume* 
+
+Para 3: Explain why you are interested in the job/role/company. Show research of company. 
+
+Try to explain why you are interested in the job/ role/ company. Don't just copy the information of company from website. Instead, show some insightful research, and tll them something different that speaks to your position and interest. 
+
+Para 4: Advise on your availabity for an interview. Thank them for their consideration of your application.
+
+Yours sincerely, if you know the receiver's name 
+
+Your name
+
+Yours faithfully - if addressed Sir/Madam
+
+
+## Key Points:
+
+* Applying for a job involves several stages and you'll need a sound understanding of the recruitment process and selection techniques used by employers.
+
+* We need to invest effort, energy and persistence but this is an instance where practice makes perfect. 
+
+* Seek constructive feedback and build your confidence to market your skills and potential.
+
+** To book a coach: https://www.careerhub.mq.edu.au/students/infopages/detail/239
+
+
+
+# JOB SEEKING SKILLS
+
+To find a job, effort, persistence and resilience is required. Job seeking will be more effective if we know where to look for jobs and are well prepared. 
+
+Before starting to look for work, think below: 
+
+Who you are: 
+
+What you have to offer: 
+
+Consider:
+
+a. values: 
+
+b. interests:
+
+c. Personality:
+
+d. Skills
+
+e. Short term goals:
+
+f. Long-term goals:
+
+To know all these above traits, please refer to this link: https://mquniversity.careercentre.me/Members
+
+g. Be aware of your professional brand: Everyone has got one and have control over how you want others to see you. __Be strategic about building and cultivating brand.__
+
+h. Consider employability skills and think about which ones you already have and how can you demonstrate them. 
+
+
+## Explore options:
+
+Start to do research now, 
+
+* industries - Which industries are you interested in? 
+
+* Organisations - which organisations operate within those industries? 
+
+* Job market - how does it look within each sector? 
+
+* Trends - any current or emerging trends to have aware of? 
+
+* Working environment - is it good match for your preferred work style? 
+
+* Job Prospects - what jobs are available that interest you, and how do they pay? 
+
+* Job requirements - do you have right skills and experience? 
+
+
+There are several industry-based online resources to consider while researching such as the __labour market information portal__ and __Employer's Recruitment Insights__
+
+
+## Advertised Roles
+
+* Seek, Indeed, Ethical Jobs and Glassdoor
+
+* Industry-specific job websites 
+
+* Employer websites
+
+* Professional associations websites
+* LinkedIn and other social media platforms
+* Employability Connect
+* Job boards such as the Federal Government’s Jobs Hub
+* Traditional media such as newspapers and industry journals
+
+
+
+If can't find the right jobs at first, consider applying for volunteering or an internship position. 
+
+
+
+## Hidden Job Market:
+
+* Contact employers via email or phone - cold calling
+
+* Conduct informational interviews- reaching out to people already working in a sector of interest to learn more about the field to know about what skills would be required to work there. For this use linkedin. 
+
+* Register with recruitment agencies
+
+* check/ join professional associations.
+
+* Attend careers events, employer presentations and workshops 
+
+* Build network
+
+
+## Networking contacts
+
+network is probably biggest ally in finding work, so you must put effort into building and nurturing it. 
+
+* Current employers - are therey any other opportunites where you are working now? 
+
+* Lecturers, academic staff and professional staff
+
+* Other students
+
+* Contacts from volunteering, and extracurricular activites
+
+* Community, student, and sporting groups contacts
+
+* Personal contacts
+
+* Friends and Family
+
+* Linkedin Connections 
+
+
+## Tips to keep on top of Job Searching
+
+* keep a record of all interactions with potential employers
+
+* keep a record of each job you apply for and a copy of the resume send for each position
+
+* Keep a copy of the job ad(after the job closes you won't be able to access it)
+
+* Follow up with employers you don't hear back from as feedback is valuable
+
+
+## Staying positive
+
+* Be methodocial
+
+* Create a daily job routine, and factor in breaks
+
+* Set achievable goals of each week
+
+* Celebrate small victories
+
+* Don't lose sight of what you have to offer
+
+* if you can't find dream job, look for the 'stepping stones' roles that will take you in the right direction
+
+* Remember that job searching is a numbers game that requires  persistence and resilience- so should be looking across all channels and stick with it. 
+
+
+# Applying for a job
+
+Once a dream job is found to apply, work through below sections in order as they reflect the stages of a recruitment process. 
+
+1. Resume
+2. Cover Letter
+3. Selection Criteria
+4. Interviews
+5. Assessment centres and testing
+6. Accepting a job offer
+
+
+
+3. Selection Criteria
+
+Once we found a job that seems perfect, you can find the key qualities or selection criteria in job description the empployer is seeking in their ideal applicant. And there are the essential and desirable skills, experience, personal attributes, and qualifications that are required for a job. Employers look for candidates who clearly show they meet the selection criteria and can provide evidence of their skills. 
+
+##Address the selection criteria in cover letter and resume
+
+### In Cover letter/Resume
+
+* Identify the key selection criteria
+
+* Address each one 
+
+* use an example
+
+* Include a range of evidence or examples from studies, employment experience and extra-curricular activites
+
+* keep it short, focused and relevant
+
+
+### Seperate selection criteria, if asked to address selection criteria in a seperate document
+
+* Read the instructions carefully and address each criterion in full. 
+
+* Provide a clear heading for each of the selection criteria
+
+* Do not go over the word or page limit
+
+* Proofread, check spelling and grammar
+
+
+### Structing responses in a selection criteria in cover letter: 
+
+* Introduction (One sentence). Answer the question; introduce the example. 
+
+* Body: 
+    
+    + Support answer with relevant example
+    + use STAR approach: 
+        
+        + Situation: outline the situation or setting: Who was involved? what was your role? 
+        
+        + Task: what did you do? What happened next? 
+        
+        + Action or Approach: How did you do it? 
+        
+        + Result: What was the outcome? What was the feedback you received?
+        
+        
+
+* use examples that have a clear begining, middle and end
+
+* Focus on 'I', not 'we'. 
+
+* Demonstrate research of the company and role. 
+
+
+* Example:
+
+_At university, I successfully completed many research projects that required high-level analytical skills. I also undertook special project work with my professor that required extensive literature research and analysis of organisational management theories._
+
+
+_This special project was an opportunity to develop my quantitative research skills by analysing statistical data. I also utilised my qualitative research skills by interviewing proponents of different theories. I completed the research within the specified timeframe and presented the results according to university standards._
+
+_My contribution was formally recognised by the faculty at a sociological seminar, and I was subsequently asked to co-author an academic paper with my professor that was accepted for publication in Organisational Monthly. I believe this demonstrates my strong analytical and research skills._
+
+
+There are another selection criteria as well: 
+
+__Communication Skills(Oral and Written)__
+
+This skills can be shown by : 
+
+* Expressing clearly and logically both orally and writing
+
+* communicate effectively with a wide range of individuals
+
+To support above skills, we should draw on: 
+
+    + Oral: public speaking, debating, tutorial discussions, presentattions,
+    conferences, explain solutions to convince audiences, facilitate discussion,
+    customer service
+    
+    + Written: research papers, written reports, essays, assignments, 
+    story writing, writing of specific purposes, published papers or articles. 
+    
+    
+    
