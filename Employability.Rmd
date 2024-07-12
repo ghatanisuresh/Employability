@@ -1,0 +1,22 @@
+---
+title: "Untitled"
+author: "Suresh Ghatani"
+date: "2024-07-12"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This is an example note.
+
+## Section 1
+
+Here is some content for the first section.
+
+## Section 2
+
+Here is some content for the second section.
